@@ -15,7 +15,7 @@ terraform {
     organization = "vivid-solutions"
 
     workspaces {
-      name = "gh-actions-test"
+      name = "gh-actions-demo"
     }
   }
 }
