@@ -12,7 +12,7 @@ terraform {
   required_version = ">= 1.1.0"
 
   cloud {
-    organization = "Vivid Solutions"
+    organization = "vivid-solutions"
 
     workspaces {
       name = "gh-actions-test"
